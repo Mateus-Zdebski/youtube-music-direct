@@ -1,0 +1,30 @@
+{
+  "id": "youtube-music-direct",
+  "name": "YOUTUBE MUSIC DIRECT",
+  "pkg": "com.8spine.module.youtube.music.direct",
+  "file": "youtube-music-direct.8spine",
+  "download": "./youtube-music-direct.8spine",
+  "version": "v5.2",
+  "code": 52,
+  "type": "MODULE",
+  "author": "nvmindl",
+  "description": "YOUTUBE MUSIC SEARCH WITH AUDIO-ONLY DIRECT PLAYBACK AND DOWNLOAD SUPPORT.",
+  "tags": [
+    "YT MUSIC",
+    "AUDIO",
+    "DOWNLOAD"
+  ],
+  "featured": false,
+  "trusted": false,
+  "nsfw": false,
+  "lang": "all",
+  "folder": ".",
+  "sources": [
+    {
+      "name": "YOUTUBE MUSIC DIRECT",
+      "lang": "all",
+      "id": "youtube-music-direct",
+      "baseUrl": "."
+    }
+  ]
+}
